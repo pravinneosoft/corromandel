@@ -1,0 +1,1 @@
+mongodb+srv://myntra:<Pravin@1996>@cluster0.1wn9w.mongodb.net/myntra?retryWrites=true&w=majority
